@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @flizzyflo
-- 👀 I’m interested in programming with Python and learning about programming and computer science in general. 
-- 🌱 I’m currently learning the foundations of programming, mostly with Python, and a littlebit of Pascal.
-      I do not have a computer science degree, I am totally self-learning everything, having a lot of fun! :)
+Hi, my name is @flizzyflo and I am a self-taught (and still self-teaching) programming interested guy from germany.
+I’m fascinated by the creative power of programming, thus I am exited to learn and enable myself to create anything I like to.
+Currently, I am programming mostly with Python, and did a littlebit in Pascal as well.
+I am excited to get feedback for my projects, improve myself and move along the way step-by-step, together with the worldwide programmer community.
+
 
 
 <!---
